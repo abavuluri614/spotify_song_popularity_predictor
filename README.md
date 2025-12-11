@@ -53,6 +53,7 @@ Notebook 2. 02_model_training.ipynb
  - Encodes categorical variables
  - Splits + scales the data
  - Trains logistic regression model
+ - Trains random forest classifier
  - Saves model, scaler, and feature columns into /models/
 
 ## How to Run the Streamlit App
